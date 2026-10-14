@@ -38,25 +38,34 @@ b.  KCL:
 5.   Set the input voltage to a value between 0V to 30V.
 6.   Record the voltage values shown in the ammeter connected to each resistor.
 7.   Take readings for different values of input voltage and tabulate them. 
+CIRCUIT DIAGRAM:<img width="1147" height="652" alt="circuit kvl" src="https://github.com/user-attachments/assets/691bd4cf-f010-40fe-b7a3-025bae8bcb2c" />
+
+
 CIRCUIT DIAGRAM:
+<img width="1143" height="815" alt="kcl circuit" src="https://github.com/user-attachments/assets/795a3cd0-7d28-4579-b86d-bed000111d76" />
 
-CIRCUIT DIAGRAM:
 
+a.   KVL:<img width="1172" height="673" alt="kvl" src="https://github.com/user-attachments/assets/4803ae25-e207-42f2-84ac-0906ef9c7cad" />
 
-a.   KVL:
  
 
 
-b.  KCL:
+b.  KCL:<img width="1180" height="831" alt="kcl" src="https://github.com/user-attachments/assets/d12614bd-c90f-41df-8512-0cc858be7e5f" />
+
  
 
 Calculation:
 
-a.   KVL:
- 
+a.   KVL:<img width="731" height="1343" alt="calcuation kvl" src="https://github.com/user-attachments/assets/4fd3bbba-add2-414b-b8bb-af45058bff0f" />
+
+ <img width="731" height="1259" alt="kvl 2 calculation" src="https://github.com/user-attachments/assets/6e8c816f-eda7-4aac-81c7-245ab38e385c" />
 
 
-b.  KCL:
+
+b.  KCL:<img width="731" height="1336" alt="kcl calcuation 1" src="https://github.com/user-attachments/assets/e0a42c37-d61b-4a4f-b6c4-28e4843505ab" />
+<img width="731" height="1287" alt="kcl calcuation 2" src="https://github.com/user-attachments/assets/b9686e91-f719-4d78-8c8a-48285fc2a3e6" />
+<img width="731" height="671" alt="kcl calculation 3" src="https://github.com/user-attachments/assets/c1fd26ee-0733-4d03-a7c4-a69f95498aa7" />
+
 
 
 
@@ -64,10 +73,13 @@ b.  KCL:
 Tabulation:
 
 a.   KVL:
- 
+ <img width="731" height="880" alt="kvl tabulation" src="https://github.com/user-attachments/assets/09fb4162-3051-4c48-8459-f10ab72c1bef" />
 
 
-b.  KCL:
+
+b.  KCL:<img width="731" height="803" alt="kcl tabulation" src="https://github.com/user-attachments/assets/a9dff171-d4fc-44ac-9535-88826ea54e57" />
+
+
 
 
 
